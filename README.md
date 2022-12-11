@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yacine-yac
-- 👀 I’m interested in web development 
+- 👀 I’m junior Web Developer
 - 🌱 I’m currently learning react JS
 - 💞️ I’m looking to collaborate on javascript projects 
 - 📫 How to reach me ...
