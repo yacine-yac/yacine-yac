@@ -2,7 +2,7 @@
 - 👀 I’m junior Web Developer
 - 🌱 I’m currently learning react JS
 - 💞️ I’m looking to collaborate on javascript projects 
-- 📫 How to reach me ...
+- 📫 contact me on Yacine1998m@gmail.com
 
 <!---
 yacine-yac/yacine-yac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
